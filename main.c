@@ -2,6 +2,6 @@
 
 int main()
 {
-printf ("Second commit on new branch");
+printf ("The third commit on new branch");
 return 0;
 }
