@@ -2,6 +2,6 @@
 
 int main()
 {
-printf ("First commit");
+printf ("Second commit");
 return 0;
 }
